@@ -1,7 +1,7 @@
 {
 	"name": "sandbox",
 	"version": "0.1.0",
-	"description": "Specialized Node.js module for running sandboxed Ebookcoin dapps",
+	"description": "Specialized Node.js module for running sandboxed nsvnteasy dapps",
 	"main": "index.js",
 	"directories": {
 		"test": "test"
@@ -14,18 +14,18 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:Ebookcoin/sandbox.git"
+		"url": "git@github.com:nsvnteasy/sandbox.git"
 	},
 	"keywords": [
 		"sandbox",
-		"ebookcoin"
+		"nsvnteasy"
 	],
 	"author": "Boris Povod <boris@crypti.me>, Pavel Nekrasov <landgraf.paul@gmail.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/Ebookcoin/sandbox/issues"
+		"url": "https://github.com/nsvnteasy/sandbox/issues"
 	},
-	"homepage": "https://github.com/Ebookcoin/sandbox",
+	"homepage": "https://github.com/nsvnteasy/sandbox",
 	"devDependencies": {
 		"mocha": "^2.2.5",
 		"should": "^6.0.1"
