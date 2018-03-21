@@ -1,0 +1,33 @@
+{
+	"name": "sandbox",
+	"version": "0.1.0",
+	"description": "Specialized Node.js module for running sandboxed Ebookcoin dapps",
+	"main": "index.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"test": "mocha"
+	},
+	"dependencies": {
+		"async": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:Ebookcoin/sandbox.git"
+	},
+	"keywords": [
+		"sandbox",
+		"ebookcoin"
+	],
+	"author": "Boris Povod <boris@crypti.me>, Pavel Nekrasov <landgraf.paul@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Ebookcoin/sandbox/issues"
+	},
+	"homepage": "https://github.com/Ebookcoin/sandbox",
+	"devDependencies": {
+		"mocha": "^2.2.5",
+		"should": "^6.0.1"
+	}
+}
